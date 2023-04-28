@@ -3,3 +3,12 @@
     height: 50px;
     background-color: rgb(255, 0, 43);
 }
+.block1 {
+    color: red;
+}
+.block_bg   {
+    background-color: black;
+}
+#item   {
+    color: green;
+    }
